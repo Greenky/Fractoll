@@ -1,5 +1,5 @@
 # Fractoll
-*** Fractoll by vmazurok (Valentine Mazurok) ***
+<b> Fractoll by vmazurok (Valentine Mazurok) </b>
 <hr> 
 Second Project of Computer Graphic branch in UNIT Factory.
 The goal was to create program what can display some set of fractals, and make the infinite zoom in, using just pure C and minilibX Framework for visualization (primitive window and set points in certain positions).
