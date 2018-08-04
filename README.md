@@ -18,10 +18,10 @@ Arrow keys                     :  for move the camera
 Z / X                          :  change coloring
 ```
 <b> Kinds of fractals  </b>
->> 1.Mandelbrot </li>
->> 2.Julia</li>
->> 3.Ship Fractol</li>
->> etc. </li>
+>> 1.Mandelbrot </p>
+>> 2.Julia</p>
+>> 3.Ship Fractol</p>
+>> etc. </p>
 
 ***Julia family sets***
 Julia family sets also react on mouse movement by changing it's constants.
