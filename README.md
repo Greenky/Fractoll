@@ -23,6 +23,6 @@ Z / X                          :  change coloring
 >> 3.Ship Fractol</br>
 >> etc. </br>
 
-***Julia family sets***
+***Julia family sets***</br>
 Julia family sets also react on mouse movement by changing it's constants.
 To turn off this depending press `Space Bar`
