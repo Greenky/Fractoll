@@ -14,14 +14,14 @@ Executable binary also included in repo.
 ```
 Right mouse button/ wheel down :  zoom out 
 Left mouse button/ wheel up    :  zoom in
-Arrow keys                     :	for move the camera
+Arrow keys                     :  for move the camera
 Z / X                          :  change coloring
 ```
 <b> Kinds of fractals  </b>
->> 1.Mandelbrot
->> 2.Julia
->> 3.Ship Fractol
->> etc. 
+>> 1.Mandelbrot </li>
+>> 2.Julia</li>
+>> 3.Ship Fractol</li>
+>> etc. </li>
 
 ***Julia family sets***
 Julia family sets also react on mouse movement by changing it's constants.
